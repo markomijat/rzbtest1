@@ -1,0 +1,7 @@
+[report]
+omit =
+    setup.py
+    rzbd2i1p/__main__.py
+    rzbd2i1p/_version.py
+    versioneer.py
+    tests/*
